@@ -42,3 +42,174 @@ const end = new Date().getTime();
 
 console.log(end - start);
 ```
+
+---
+
+### ✨ 구조 분해 할당을 이용한 변수 swap
+
+```
+let a = 5, b = 10;
+[a, b] = [b, a];
+console.log(a, b); // 10 5
+```
+
+### ✨ 배열 생성으로 루프 제거하기
+
+```js
+let sum = 0;
+for (let i = 5; i < 10; i += 1) {
+  sum += i;
+}
+```
+
+- 함수형 프로그래밍 방식
+
+```js
+const sum = Array.from(new Array(5), (_, k) => k + 5).reduce(
+  (acc, cur) => acc + cur,
+  0
+);
+```
+
+### ✨ 배열 내 같은 요소 제거하기 - set
+
+```js
+const names = ["Lee", "Kim", "Park", "Lee", "Kim"];
+const uniqueNamesWithArrayFrom = Array.from(new Set(names));
+const uniqueNamesWithSpread = [...new Set(names)];
+```
+
+### ✨ Spread 연산자를 이용한 객체 병합
+
+```js
+const person = {
+  name: "Lee Sun-Hyoup",
+  familyName: "Lee",
+  givenName: "Sun-Hyoup",
+};
+
+const company = {
+  name: "Cobalt. Inc.",
+  address: "Seoul",
+};
+
+const leeSunHyoup = { ...person, ...company };
+console.log(leeSunHyoup);
+// {
+//   address: “Seoul”
+//   familyName: “Lee”
+//   givenName: “Sun-Hyoup”
+//   name: "Cobalt. Inc." // 같은 키는 마지막에 대입된 값으로 정해진다.
+// }
+```
+
+### ✨ &&와 || 활용
+
+```js
+/// ||
+// 기본값을 넣어주고 싶을 때 사용할 수 있습니다.
+// participantName이 0, undefined, 빈 문자열, null일 경우 'Guest'로 할당됩니다.
+const name = participantName || "Guest";
+
+/// &&
+// flag가 true일 경우에만 실행됩니다.
+flag && func();
+
+// 객체 병합에도 이용할 수 있습니다.
+const makeCompany = (showAddress) => {
+  return {
+    name: "Cobalt. Inc.",
+    ...(showAddress && { address: "Seoul" }),
+  };
+};
+console.log(makeCompany(false));
+// { name: 'Cobalt. Inc.' }
+console.log(makeCompany(true));
+// { name: 'Cobalt. Inc.', address: 'Seoul' }
+```
+
+### ✨ 구조 분해 할당 사용하기
+
+- 필요한 프로퍼티만 뽑고 싶을 때
+
+```js
+const person = {
+    name: 'Lee Sun-Hyoup',
+    familyName: 'Lee',
+    givenName: 'Sun-Hyoup'
+    company: 'Cobalt. Inc.',
+    address: 'Seoul',
+}
+
+const { familyName, givenName } = person;
+```
+
+- 객체 생성시 key 생략 가능
+
+```js
+const name = "Lee Sun-Hyoup";
+const company = "Cobalt";
+const person = {
+  name,
+  company,
+};
+```
+
+### ✨ 비구조화 할당 사용하기
+
+- 함수에 객체를 넘길 경우 필요한 것만 꺼내 쓸 수 있다
+
+```js
+const makeCompany = ({ name, address, serviceName }) => {
+  return {
+    name,
+    address,
+    serviceName,
+  };
+};
+const cobalt = makeCompany({
+  name: "Cobalt. Inc.",
+  address: "Seoul",
+  serviceName: "Present",
+});
+```
+
+### ✨ 동적 속성 이름
+
+- ES6에 추가된 기능으로 객체의 키를 동적으로 생성
+
+```js
+const nameKey = "name";
+const emailKey = "email";
+const person = {
+  [nameKey]: "Lee Sun-Hyoup",
+  [emailKey]: "kciter@naver.com",
+};
+console.log(person);
+// {
+//   name: 'Lee Sun-Hyoup',
+//   email: 'kciter@naver.com'
+// }
+```
+
+### ✨ !! 연산자를 사용하여 Boolean 값으로 바꾸기
+
+- !! 연산자를 이용하여 0, null, 빈 문자열, undefined, NaN을 false로 그 외에는 true로 변경 가능
+
+```js
+function check(variable) {
+  if (!!variable) {
+    console.log(variable);
+  } else {
+    console.log("잘못된 값");
+  }
+}
+check(null); // 잘못된 값
+check(3.14); // 3.14
+check(undefined); // 잘못된 값
+check(0); // 잘못된 값
+check("Good"); // Good
+check(""); // 잘못된 값
+check(NaN); // 잘못된 값
+check(5); // 5
+```
