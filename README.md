@@ -1,5 +1,5 @@
 # 알고리즘 스터디
-
+[강의](https://school.programmers.co.kr/learn/courses/13213/13213-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%91%ED%83%88-%EB%B0%A9%EC%A7%80-a-to-z-javascript)
 > **1주차** (12 / 4 ~ 12 / 9)
 
 |DAY 1 (월)|DAY 2 (화)|DAY 3 (수)|DAY 4 (목)|DAY 5 (금)|DAY 6 (토)|
