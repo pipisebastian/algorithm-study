@@ -44,7 +44,7 @@
 #### Part2
 | 　　\　 Day<br>이름　\                                      |  16  |  17  |  18  |  19  |  20  |  21  |  22  |  23  |
 | :---------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      |||||||✅|
+| <center>[김은지](https://github.com/publdaze)</center>      |✅||||||✅|
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 | <center>제출</center>                                       |
 
