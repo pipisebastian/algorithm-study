@@ -57,6 +57,29 @@
 
 ### ✅ 체크리스트
 
+<table><tr>
+<td align="center">
+  <img src="https://github.com/publdaze.png?v=4?s=100" width="100px;" alt=""/>
+  <br />
+  <sub>
+    <b>publdaze</b>
+    <br />
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"/>
+  </sub>
+  <br />
+</td>
+<td align="center">
+  <img src="https://github.com/pipisebastian.png?v=4?s=100" width="100px;" alt=""/>
+  <br />
+  <sub>
+    <b>pipisebastian</b>
+    <br />
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/48"/>
+  </sub>
+  <br />
+</td>
+</tr></table>
+
 #### Part1 자료구조/알고리즘 기초
 
 | 　　\　 Day<br>이름　\                                      |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
@@ -80,6 +103,29 @@
 <img width="150" alt="image" src="https://github.com/pipisebastian/algorithm-study/assets/78250089/bdf5d130-56ab-46d0-b6e0-fcbb9c5d6387">
 
 ### ✅ 체크리스트
+
+<table><tr>
+<td align="center">
+  <img src="https://github.com/publdaze.png?v=4?s=100" width="100px;" alt=""/>
+  <br />
+  <sub>
+    <b>publdaze</b>
+    <br />
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/3"/>
+  </sub>
+  <br />
+</td>
+<td align="center">
+  <img src="https://github.com/pipisebastian.png?v=4?s=100" width="100px;" alt=""/>
+  <br />
+  <sub>
+    <b>pipisebastian</b>
+    <br />
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+  </sub>
+  <br />
+</td>
+</tr></table>
 
 #### Part1 문제 해결 시작하기
 
@@ -129,6 +175,7 @@
 | :---------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: |
 | <center>[김은지](https://github.com/publdaze)</center>      |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
+
 
 <br/>
 
