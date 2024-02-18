@@ -85,7 +85,7 @@
 
 | 　　\　 Day<br>이름　\                                      |  1  |  2  |  3  |
 | :---------------------------------------------------------- | :-: | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 
 #### Part2 알고리즘 분석
