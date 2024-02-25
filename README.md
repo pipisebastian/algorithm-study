@@ -111,7 +111,7 @@
   <sub>
     <b>publdaze</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/9"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/12"/>
   </sub>
   <br />
 </td>
@@ -138,7 +138,7 @@
 
 | 　　\　 Day<br>이름　\                                      |  4  |  5  |
 | :---------------------------------------------------------- | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 
 #### Part3 알고리즘 설계 패러다임
