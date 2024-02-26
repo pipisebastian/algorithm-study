@@ -111,7 +111,7 @@
   <sub>
     <b>publdaze</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/12"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/16"/>
   </sub>
   <br />
 </td>
@@ -138,7 +138,7 @@
 
 | 　　\　 Day<br>이름　\                                      |  4  |  5  |
 | :---------------------------------------------------------- | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      | ✅  |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 
 #### Part3 알고리즘 설계 패러다임
@@ -195,8 +195,8 @@
 2. 스케줄표에 맞는 PR은 ✅, 스케줄표와 맞지 않는 PR(더 일찍 제출하거나 늦게 제출하는 경우)은 ✔️로 표시됩니다.
 3. 완주를 하시면 스터디가 끝나고 이름 옆에 이모지를 붙여드립니다.
 
-- 👑 완주 : 마지막 day 제출 및 2회 이하 미제출 (:heavy_check_mark:가 2회 빼고 다 표시된 경우)
-- 🏆 개근 : 1회 이하 미제출 (:heavy_check_mark:가 1회 빼고 다 표시된 경우)
+- 👑 완주 : 마지막 day 제출 및 2회 이하 미제출 (✔️가 2회 빼고 다 표시된 경우)
+- 🏆 개근 : 1회 이하 미제출 (✔️가 1회 빼고 다 표시된 경우)
 - 🎖 만근 : 1회 이하 미제출(시간 엄수) (✅가 1회 빼고 다 표시된 경우)
 
 4. 하루는 새벽 08:00 부터 다음날 새벽 08:00 까지 입니다. 즉 **새벽 8시를 기준**으로 체크합니다.
