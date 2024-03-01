@@ -111,7 +111,7 @@
   <sub>
     <b>publdaze</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/16"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/19"/>
   </sub>
   <br />
 </td>
@@ -145,7 +145,7 @@
 
 | 　　\　 Day<br>이름　\                                      |  6  |  7  |  8  |  9  | 10  | 11  | 12  |
 | :---------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 
 #### Part4 유명한 알고리즘들
