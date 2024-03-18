@@ -64,7 +64,7 @@
   <sub>
     <b>publdaze</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/87"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/91"/>
   </sub>
   <br />
 </td>
@@ -84,7 +84,7 @@
 
 | 　　\　 Day<br>이름　\                                      |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
 | :---------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |     | ✅  | ✅  |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |     | ✅  | ✅  |     |     | ✅  |
 | <center>제출</center>                                       |
 
