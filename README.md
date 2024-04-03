@@ -62,9 +62,9 @@
   <img src="https://github.com/publdaze.png?v=4?s=100" width="100px;" alt=""/>
   <br />
   <sub>
-    <b>publdaze</b>
+    <b>🎉publdaze🎉</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/96"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
   </sub>
   <br />
 </td>
@@ -92,7 +92,7 @@
 
 | 　　\　 Day<br>이름　\                                      | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | :---------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <center>[김은지](https://github.com/publdaze)</center>      | ✅  | ✅  | ✅  | ✅  |     | ✅  | ✅  | ✅  |
+| <center>[김은지](https://github.com/publdaze)</center>      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 | <center>[장서윤](https://github.com/pipisebastian)</center> |
 | <center>제출</center>                                       |
 
